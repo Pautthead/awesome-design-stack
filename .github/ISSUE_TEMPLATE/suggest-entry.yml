@@ -1,0 +1,70 @@
+name: Suggest an entry
+description: Propose a resource for the list
+title: "[Entry] <resource name>"
+labels: ["entry-suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: How the resource is known.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Must respond 200 and not block link checkers.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Inspiration galleries
+        - Galleries by screen type
+        - UI pattern libraries
+        - Design systems and guidelines
+        - Agent skills for design
+        - UI components and libraries
+        - Templates and UI kits
+        - Color
+        - Typography
+        - Icons
+        - Illustrations
+        - Stock photos, video and 3D
+        - Animation and motion
+        - CSS generators and backgrounds
+        - Prototyping and design tools
+        - AI design tools
+        - Learning, UX and accessibility
+        - Utilities
+        - Other (explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line description
+      description: What it is and why it matters. English and Spanish if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should it be in the list?
+      description: How it meets the criteria in CONTRIBUTING.md (useful, free or free tier, maintained).
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: The URL responds 200 for an automated client
+          required: true
+        - label: It is free, open source, or has a meaningful free tier
+          required: true
+        - label: The link is not an affiliate link
+          required: true
