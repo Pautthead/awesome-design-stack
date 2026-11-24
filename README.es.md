@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/assets/logo.png" width="128" alt="awesome-design-stack logo"></p>
+
 <div align="center">
   <img src="assets/banner.svg" alt="awesome-design-stack banner" width="100%">
 </div>
