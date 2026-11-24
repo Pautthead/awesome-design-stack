@@ -7,7 +7,7 @@
 <p align="center"><a href="README.md">English</a> &#183; <strong>Español</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Pautthead/awesome-design-stack/stargazers"><img src="https://img.shields.io/github/stars/Pautthead/awesome-design-stack.svg" alt="Stars"></a>
+  <a href="https://github.com/fluyeporlaweb/awesome-design-stack/stargazers"><img src="https://img.shields.io/github/stars/fluyeporlaweb/awesome-design-stack.svg" alt="Stars"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0"></a>
   <a href=".github/workflows/link-check.yml"><img src="https://img.shields.io/badge/links-checked%20weekly-blue.svg" alt="Links checked weekly"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
