@@ -46,6 +46,10 @@ jobs:
             --exclude "img.shields.io"
             --exclude "mirrors.creativecommons.org"
             --exclude "github.com/Pautthead/awesome-design-stack"
+            --exclude "github.com/fluyeporlaweb/awesome-design-stack"
+            --exclude "www.canva.com"
+            --exclude "www.figma.com"
+            --exclude "webdesign.tutsplus.com"
             './README.md'
             './README.es.md'
 
