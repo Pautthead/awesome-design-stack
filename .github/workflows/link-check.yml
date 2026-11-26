@@ -68,14 +68,7 @@ jobs:
             exit 1
           fi
           cat "$report"
-          errors="$(python3 - <<'PY'
-          from pathlib import Path
-          import re
-          text = Path("lychee/out.md").read_text(encoding="utf-8", errors="replace")
-          match = re.search(r"Errors\s*\|\s*(\d+)", text)
-          print(match.group(1) if match else "missing")
-          PY
-          )"
+          errors="$(python3 -c 'from pathlib import Path; import re; text = Path("lychee/out.md").read_text(encoding="utf-8", errors="replace"); match = re.search(r"Errors\s*\|\s*(\d+)", text); print(match.group(1) if match else "missing")')"
           if [[ "$errors" == "missing" ]]; then
             echo "Could not parse the Errors count from the lychee report"
             exit 1
