@@ -43,9 +43,12 @@ jobs:
             --max-cache-age 1d
             --max-retries 2
             --timeout 20
+            --user-agent "Mozilla/5.0 (compatible; fluyeporlaweb-linkcheck; +https://fluyeporlaweb.com)"
+            --accept 200,204,206,301,302,307,308,429,403
             --exclude "img.shields.io"
             --exclude "mirrors.creativecommons.org"
             --exclude "github.com/Pautthead/awesome-design-stack"
+            --exclude "github.com/.*/stargazers"
             './README.md'
             './README.es.md'
 

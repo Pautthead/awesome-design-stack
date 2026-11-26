@@ -47,7 +47,7 @@ The big design lists went stale years ago, while the work moved on: you pick a d
 Real websites to steal structure from (never pixels, always patterns).
 
 - [Land-book](https://land-book.com) - Hand-picked landing pages and web designs, filterable by industry and UI element.
-- [Lapa Ninja](https://lapa.ninja) - Huge free gallery of landing pages, filterable by element, color and style, plus free UI kits.
+- [Lapa Ninja](https://www.lapa.ninja) - Huge free gallery of landing pages, filterable by element, color and style, plus free UI kits.
 - [Awwwards](https://www.awwwards.com) - The awards for the best web design on the planet; winners, nominees and jury notes.
 - [CSS Design Awards](https://www.cssdesignawards.com) - Website awards and gallery with honors for UI, UX and innovation.
 - [The FWA](https://thefwa.com) - Digital design awards since 2000; every entry gets a written critique.
@@ -446,6 +446,12 @@ Small tools that each solve one annoying job.
 - [Tiny Helpers](https://tiny-helpers.dev) - A collection of small, single-purpose dev and design helpers.
 - [SVG Crop](https://svgcrop.com) - Trim the invisible margins of any SVG, in the browser.
 
+## Sponsors
+
+This list is free and open source. Brands that want to appear here or collaborate with us can write to [colab@fluyeporlaweb.com](mailto:colab@fluyeporlaweb.com) or visit [fluyeporlaweb.com/patrocina](https://fluyeporlaweb.com/patrocina).
+
+**[Your brand here](https://fluyeporlaweb.com/patrocina)**
+
 ## Contributing
 
 Suggestions and PRs are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the inclusion criteria, the entry format and the checklist your link must pass (including the automated link check).
@@ -459,7 +465,8 @@ To the extent possible under law, the contributors have waived all copyright and
 ---
 
 <p align="center">
-  Maintained by <a href="https://fluyeporlaweb.com">Pablo</a> &#183;
+  Maintained by <a href="https://fluyeporlaweb.com">fluyeporlaweb</a> &#183;
   <a href="https://x.com/fluyeporlaweb">@fluyeporlaweb</a> &#183;
+  <a href="mailto:colab@fluyeporlaweb.com">colab@</a> &#183;
   <a href="README.es.md">Versión en español</a>
 </p>
