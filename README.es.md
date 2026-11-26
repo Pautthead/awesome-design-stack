@@ -47,7 +47,7 @@ Las grandes listas de diseño llevan años sin mantenerse, mientras el trabajo c
 Webs reales de las que robar estructura (nunca píxeles: siempre patrones).
 
 - [Land-book](https://land-book.com) - Páginas de aterrizaje y diseños web elegidos a mano, con filtros por sector y elemento de interfaz.
-- [Lapa Ninja](https://lapa.ninja) - Galería gratuita enorme de landings, con filtros por elemento, color y estilo, y kits de UI de regalo.
+- [Lapa Ninja](https://www.lapa.ninja) - Galería gratuita enorme de landings, con filtros por elemento, color y estilo, y kits de UI de regalo.
 - [Awwwards](https://www.awwwards.com) - Los premios al mejor diseño web del planeta: ganadores, finalistas y notas del jurado.
 - [CSS Design Awards](https://www.cssdesignawards.com) - Premios y galería de webs con menciones a la UI, la UX y la innovación.
 - [The FWA](https://thefwa.com) - Premios de diseño digital desde 2000; cada entrada recibe una crítica escrita.
@@ -446,6 +446,12 @@ Herramientas pequeñas que resuelven cada una un fastidio concreto.
 - [Tiny Helpers](https://tiny-helpers.dev) - Una colección de ayudas pequeñas de una sola cosa para devs y diseñadores.
 - [SVG Crop](https://svgcrop.com) - Recorta los márgenes invisibles de cualquier SVG, en el navegador.
 
+## Patrocinadores
+
+Esta lista es gratuita y de código abierto. Las marcas que quieran aparecer aquí o colaborar pueden escribir a [colab@fluyeporlaweb.com](mailto:colab@fluyeporlaweb.com) o visitar [fluyeporlaweb.com/patrocina](https://fluyeporlaweb.com/patrocina).
+
+**[Tu marca aquí](https://fluyeporlaweb.com/patrocina)**
+
 ## Contribuir
 
 Las sugerencias y los PR son bienvenidos. Lee [CONTRIBUTING.md](CONTRIBUTING.md) para ver los criterios de inclusión, el formato de cada entrada y el checklist que tiene que pasar tu enlace (incluido el chequeo automático de enlaces).
@@ -459,7 +465,8 @@ En la medida en que lo permita la ley, los contribuidores han renunciado a todos
 ---
 
 <p align="center">
-  Mantenido por <a href="https://fluyeporlaweb.com">Pablo</a> &#183;
+  Mantenido por <a href="https://fluyeporlaweb.com">fluyeporlaweb</a> &#183;
   <a href="https://x.com/fluyeporlaweb">@fluyeporlaweb</a> &#183;
+  <a href="mailto:colab@fluyeporlaweb.com">colab@</a> &#183;
   <a href="README.md">English version</a>
 </p>
