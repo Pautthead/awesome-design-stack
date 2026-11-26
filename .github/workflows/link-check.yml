@@ -6,11 +6,13 @@ on:
     paths:
       - "README.md"
       - "README.es.md"
+      - "llms.txt"
       - ".github/workflows/link-check.yml"
   pull_request:
     paths:
       - "README.md"
       - "README.es.md"
+      - "llms.txt"
       - ".github/workflows/link-check.yml"
   schedule:
     # Every Monday at 06:00 UTC
@@ -58,6 +60,7 @@ jobs:
             --exclude "freestocks.org"
             './README.md'
             './README.es.md'
+            './llms.txt'
 
       - name: Fail on broken links, not runner timeouts
         run: |
