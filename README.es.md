@@ -360,9 +360,9 @@ Generadores de copiar y pegar para degradados, patrones, sombras, rejillas y div
 - [Magic Pattern](https://www.magicpattern.com) - Degradados de malla, blobs, rayas y divisores: cada uno con su generador.
 - [Blobmaker](https://www.blobmaker.app) - Haz blobs SVG orgánicos en segundos, con control de tamaño y complejidad.
 - [Get Waves](https://getwaves.io) - Genera olas en SVG y úsalas como divisoras de sección.
-- [CSSmatic](https://www.cssmatic.com) - Generadores CSS gratis y un curso de iniciación a dominio.
+- [CSSmatic](http://cssmatic.com) - Generadores CSS gratis y un curso de iniciación a dominio.
 - [Neumorphism.io](https://neumorphism.io) - Generador CSS de soft-UI (neumorfismo).
-- [Glassmorphism](https://glassmorphism.com) - Generador de efecto cristal esmerilado con CSS de copiar y pegar.
+- [Glassmorphism](https://squareblack.com/glassmorphism) - Generador de efecto cristal esmerilado con CSS de copiar y pegar.
 - [css-doodle](https://css-doodle.com) - Dibuja arte generativo con un web component y CSS puro.
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app) - Dibuja una rejilla y recibe el CSS.
 - [Layoutit Grid](https://grid.layoutit.com) - Constructor interactivo de CSS grid con plantillas y vista previa en vivo.

@@ -360,9 +360,9 @@ Copy-paste generators for gradients, patterns, shadows, grids and dividers.
 - [Magic Pattern](https://www.magicpattern.com) - Mesh gradients, blobs, stripes and dividers, each with a generator.
 - [Blobmaker](https://www.blobmaker.app) - Make organic SVG blobs in seconds, with size and complexity controls.
 - [Get Waves](https://getwaves.io) - Generate SVG waves and use them as section dividers.
-- [CSSmatic](https://www.cssmatic.com) - Free CSS generators plus a beginner-to-mastery course.
+- [CSSmatic](http://cssmatic.com) - Free CSS generators plus a beginner-to-mastery course.
 - [Neumorphism.io](https://neumorphism.io) - Soft-UI (neumorphism) CSS generator.
-- [Glassmorphism](https://glassmorphism.com) - Frosted-glass effect generator with copy-paste CSS.
+- [Glassmorphism](https://squareblack.com/glassmorphism) - Frosted-glass effect generator with copy-paste CSS.
 - [css-doodle](https://css-doodle.com) - Draw generative art with a web component and plain CSS.
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app) - Draw a grid, get the CSS.
 - [Layoutit Grid](https://grid.layoutit.com) - Interactive CSS grid builder with templates and live preview.
