@@ -49,6 +49,10 @@ jobs:
             --exclude "mirrors.creativecommons.org"
             --exclude "github.com/Pautthead/awesome-design-stack"
             --exclude "github.com/.*/stargazers"
+            # Live sites that time out or flake TLS from GitHub-hosted runners.
+            --exclude "datavizcatalogue.com"
+            --exclude "fontsinuse.com"
+            --exclude "glassmorphism.com"
             './README.md'
             './README.es.md'
 
