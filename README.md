@@ -15,30 +15,31 @@
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
 </p>
 
-> A curated collection of **web design resources** for people who ship: **UI inspiration** for every screen type, **design systems**, **agent skills for design** (Claude, Cursor, opencode), component libraries, color, typography, icons and tools. Every link is verified, and the whole list is re-checked weekly.
+> A curated collection of **web design resources** for people who ship: **landing page and pricing inspiration**, onboarding and empty states, **design systems**, **React and Tailwind components**, typography, icons, motion and shaders, **email design**, accessibility and **AI design tools**. Every link is verified, and the whole list is re-checked weekly, in English and Spanish.
 
-The big design lists went stale years ago, while the work moved on: you pick a design system, drop a `DESIGN.md` into your repo so your coding agent designs like a senior, and grab components instead of reinventing them. One list for the whole stack, in English and Spanish.
+The big design lists went stale years ago, while the work moved on: you pick a design system, drop a `DESIGN.md` into your repo so your coding agent designs like a senior, and grab components instead of reinventing them. One list for the whole stack, maintained by [fluyeporlaweb](https://fluyeporlaweb.com) (Fluye Labs).
 
 ## Contents
 
-- [🎨 Inspiration galleries](#inspiration-galleries) (25)
-- [🖥️ Galleries by screen type](#galleries-by-screen-type) (9)
-- [🧭 UI pattern libraries](#ui-pattern-libraries) (12)
-- [🧩 Design systems and guidelines](#design-systems-and-guidelines) (19)
+- [🎨 Inspiration galleries](#inspiration-galleries) (34)
+- [🖥️ Galleries by screen type](#galleries-by-screen-type) (13)
+- [🧭 UI pattern libraries](#ui-pattern-libraries) (15)
+- [🧩 Design systems and guidelines](#design-systems-and-guidelines) (28)
 - [🤖 Agent skills for design](#agent-skills-for-design) (19)
-- [🧱 UI components and libraries](#ui-components-and-libraries) (36)
-- [📄 Templates and UI kits](#templates-and-ui-kits) (10)
-- [🌈 Color](#color) (20)
-- [✍️ Typography](#typography) (21)
-- [🔖 Icons](#icons) (22)
-- [🖼️ Illustrations](#illustrations) (12)
-- [📸 Stock photos, video and 3D](#stock-photos-video-and-3d) (16)
-- [🎞️ Animation and motion](#animation-and-motion) (8)
-- [🧪 CSS generators and backgrounds](#css-generators-and-backgrounds) (26)
-- [✏️ Prototyping and design tools](#prototyping-and-design-tools) (13)
-- [🪄 AI design tools](#ai-design-tools) (8)
-- [📚 Learning, UX and accessibility](#learning-ux-and-accessibility) (27)
-- [🧰 Utilities](#utilities) (11)
+- [🧱 UI components and libraries](#ui-components-and-libraries) (45)
+- [📄 Templates and UI kits](#templates-and-ui-kits) (16)
+- [🌈 Color](#color) (24)
+- [✍️ Typography](#typography) (26)
+- [🔖 Icons](#icons) (28)
+- [🖼️ Illustrations](#illustrations) (17)
+- [📸 Stock photos, video and 3D](#stock-photos-video-and-3d) (20)
+- [🎞️ Animation and motion](#animation-and-motion) (21)
+- [🧪 CSS generators and backgrounds](#css-generators-and-backgrounds) (28)
+- [✏️ Prototyping and design tools](#prototyping-and-design-tools) (17)
+- [🪄 AI design tools](#ai-design-tools) (17)
+- [📧 Email design and tooling](#email-design-and-tooling) (6)
+- [📚 Learning, UX and accessibility](#learning-ux-and-accessibility) (33)
+- [🧰 Utilities](#utilities) (20)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -71,6 +72,15 @@ Real websites to steal structure from (never pixels, always patterns).
 - [CSSFox](https://cssfox.co) - Showcase where developers and agencies get their web work scored and awarded.
 - [Web Design File](https://www.webdesignfile.com) - A filing cabinet of notable websites, sorted by type and color.
 - [Abduzeedo](https://abduzeedo.com) - Daily design inspiration and tutorials, running since 2006.
+- [SiteInspire](https://www.siteinspire.com) - Curated gallery of website designs with filters by style, industry and color, useful for briefs and moodboards (`Free`).
+- [Behance](https://www.behance.net) - Portfolio network where designers publish case studies and visual work, useful for studying layout and craft (`Free`).
+- [Brutalist Websites](https://brutalistwebsites.com) - Directory of raw, unconventional websites that challenge layout conventions and help explore alternative visual directions (`Free`).
+- [Design Spells](https://www.designspells.com) - Collection of design references and tutorials that helps turn visual ideas into practical interface decisions (`Free`).
+- [SaaSPo](https://saaspo.com) - Browse SaaS landing pages and product screenshots to compare positioning, structure and copy patterns (`Free`).
+- [SiteSee](https://sitesee.co) - Curated examples of modern websites organized by industry, useful for research before starting a redesign (`Free`).
+- [Scrnshts](https://www.scrnshts.club) - Gallery of website screenshots that makes it quick to scan layouts, colors and typography across many sites (`Free`).
+- [Maxibestof](https://maxibestof.one) - Reference site collecting landing pages and interfaces, with quick previews for visual research (`Free`).
+- [Landings.dev](https://landings.dev) - Landing page examples grouped by pattern, useful for checking structure and calls to action before designing (`Free`).
 
 ## 🖥️ Galleries by screen type
 
@@ -85,6 +95,10 @@ The cure for "another site that looks AI-made": hundreds of real examples of the
 - [Empty States](https://emptystat.es) - The classic collection of empty state examples worth copying.
 - [User Onboard](https://www.useronboard.com) - Samuel Hulick tearing down famous onboarding flows, screen by screen.
 - [GoodUI](https://www.goodui.org) - UI patterns with receipts: which variant converted better, and by how much.
+- [Screenlane](https://screenlane.com) - Screen-by-screen gallery of real products that helps map onboarding flows and in-app patterns (`Freemium`).
+- [UX Archive](https://uxarchive.com) - Library of real user flows, organized by product and task, for studying how interfaces guide people (`Free`).
+- [Milled](https://milled.com) - Email gallery tracking campaigns from many brands, useful for studying subject lines, layout and cadence (`Free`).
+- [404s Design](https://www.404s.design) - Gallery of custom error pages that helps treat 404 screens as part of the product experience (`Free`).
 
 ## 🧭 UI pattern libraries
 
@@ -102,6 +116,9 @@ Searchable libraries of real UI patterns: navigation, forms, flows, data viz.
 - [UI Patterns](https://ui-patterns.com) - Pattern library that explains the UX reasoning behind each pattern.
 - [Dataviz Catalogue](https://datavizcatalogue.com) - Every data visualization method, explained and compared.
 - [From Data to Viz](https://www.data-to-viz.com) - Pick the right chart by picking the shape of your data; caveats included.
+- [The Component Gallery](https://component.gallery) - Searchable collection of UI components from live websites, organized by pattern for design research (`Free`).
+- [UX Patterns for Devs](https://uxpatterns.dev) - Practical patterns for common interface problems, with code-oriented explanations for designers and developers (`Free`).
+- [Design Vault](https://www.designvault.io) - Library of interface examples and design resources that supports research, moodboards and team reference (`Freemium`).
 
 ## 🧩 Design systems and guidelines
 
@@ -126,6 +143,15 @@ How the big teams do it: tokens, components and rules you can borrow.
 - [Design Systems Repo](https://designsystemsrepo.com) - Directory of design systems by company, plus articles and community.
 - [DesignSystems.com](https://www.designsystems.com) - Community hub for design systems: articles, examples and jobs.
 - [Open UI](https://open-ui.org) - Community research on making UI components work the same across frameworks.
+- [Cloudscape](https://cloudscape.design) - Design system with components and guidelines for building cloud console interfaces consistently (`Open Source`).
+- [Paste](https://paste.twilio.design) - Design system from Twilio that gives product teams tokens, components and guidance for consistent interfaces (`Open Source`).
+- [Base Web](https://baseweb.design) - React component library and design system that helps teams build interfaces with shared styling rules (`Open Source`).
+- [Evergreen](https://evergreen.segment.com) - Component library for React that covers common interface needs and keeps styling consistent across products (`Open Source`).
+- [Blueprint](https://blueprintjs.com) - React UI toolkit aimed at data-heavy desktop applications, with components and interaction patterns included (`Open Source`).
+- [Gestalt](https://gestalt.pinterest.systems) - Pinterest's design system, with components and foundations for building accessible product interfaces (`Open Source`).
+- [GOV.UK Design System](https://design-system.service.gov.uk) - Design system for public services, with research-backed patterns and accessible components for teams building public websites (`Open Source`).
+- [Semi Design](https://semi.design) - Component library and design system that helps product teams ship consistent interfaces across platforms (`Open Source`).
+- [Orbit](https://github.com/kiwicom/orbit) - Design system from Kiwi.com with components and guidelines for building travel booking interfaces (`Open Source`).
 
 ## 🤖 Agent skills for design
 
@@ -191,6 +217,15 @@ Grab components instead of reinventing them: headless primitives, styled sets, a
 - [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - The utility-first CSS framework that powers most modern design stacks.
 - [21st.dev](https://21st.dev) - Community marketplace of copy-paste React components and UI patterns.
 - [Hover.dev](https://hover.dev) - Learn to build real web UI with React, Tailwind and Motion, by building.
+- [Origin UI](https://originui.com) - Copyable React and Tailwind components that speed up interface work without setting up a full design system (`Open Source`).
+- [Ark UI](https://ark-ui.com) - Unstyled, accessible React components that let teams build custom interfaces on top of solid behavior (`Open Source`).
+- [React Aria](https://react-spectrum.adobe.com/react-aria/) - Accessible UI primitives for React that handle keyboard, focus and screen reader behavior for custom components (`Open Source`).
+- [Ariakit](https://ariakit.org) - Headless React components with built-in accessibility, useful when you need custom styling and solid interactions (`Open Source`).
+- [Open Props](https://open-props.style) - CSS custom property library that supplies design tokens for color, type, spacing and shadows (`Open Source`).
+- [Pico CSS](https://picocss.com) - Minimal CSS framework that styles semantic HTML with sensible defaults and very little custom code (`Open Source`).
+- [Skeleton](https://skeleton.dev) - Svelte UI toolkit with components and theme variables for building interfaces quickly (`Open Source`).
+- [Fancy Components](https://www.fancycomponents.dev) - Animated React components you can drop into a project to add motion without building it from scratch (`Open Source`).
+- [Web Awesome](https://webawesome.com) - Open-source web component library that brings ready-made interface primitives to any framework (`Open Source`).
 
 ## 📄 Templates and UI kits
 
@@ -206,6 +241,12 @@ Starting points for the parts you should never design from zero.
 - [Tailwind Templates](https://tailwindtemplates.io) - Free Tailwind templates and components with instant preview.
 - [Tailwind Kit](https://www.tailwind-kit.com) - A library of Tailwind components and sections, in Vue 3.
 - [Free Frontend](https://freefrontend.com) - Thousands of free frontend assets: CSS, JavaScript, React, Tailwind.
+- [Tailwind UI](https://tailwindui.com) - Ready-made component and page examples built with Tailwind, useful for assembling product interfaces faster (`Freemium`).
+- [Creative Tim](https://www.creative-tim.com) - Admin templates and UI kits that give teams a starting point for dashboards and product screens (`Freemium`).
+- [ThemeWagon](https://themewagon.com) - Free website templates for common project types, useful as a starting point for design and prototypes (`Free`).
+- [Templatemo](https://templatemo.com) - HTML and CSS templates for landing pages and sites, handy for quick prototypes and layout reference (`Free`).
+- [Vercel Templates](https://vercel.com/templates) - Starter projects from Vercel that show how to combine frameworks, deployment and common app patterns (`Free`).
+- [Sailboat UI](https://sailboatui.com) - Open-source component collection for building interfaces with consistent styling and ready-made building blocks (`Open Source`).
 
 ## 🌈 Color
 
@@ -231,6 +272,10 @@ Palettes, generators and contrast tools that keep the result accessible.
 - [Colors and Fonts](https://www.colorsandfonts.com) - Color palettes and font pairings side by side, by Michael Andreuzza.
 - [Culrs](https://culrs.com) - Hundreds of curated palettes, searchable by mood and tone.
 - [RandomA11y](https://randoma11y.com) - An endless feed of random, but always accessible, color combinations.
+- [tints.dev](https://www.tints.dev) - Tool for exploring color tints and shades, useful for building palettes that stay consistent across a design (`Free`).
+- [hue.tools](https://hue.tools) - Small color utilities for adjusting hue and generating palettes during early design exploration (`Free`).
+- [MyColor.space](https://mycolor.space) - Palette generator that turns one color into schemes you can test quickly in interface mockups (`Free`).
+- [Accessible Colors](https://accessible-colors.com) - Palette checker that tests color combinations against contrast guidelines before you ship them (`Free`).
 
 ## ✍️ Typography
 
@@ -257,6 +302,11 @@ Where to find fonts, how to pair them and how to scale them.
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - A free mono typeface built for developers, with ligatures and tall x-height.
 - [Monaspace](https://monaspace.githubnext.com) - GitHub's variable superfamily of five mono fonts with texture healing.
 - [Fonts Bunny](https://fonts.bunny.net) - Google Fonts served from a privacy-first European proxy.
+- [typ.io](https://typ.io) - Typeface pairing reference drawn from real websites, useful when choosing font combinations for a project (`Free`).
+- [Modern Font Stacks](https://modernfontstacks.com) - System font stacks that avoid webfont downloads while keeping text readable across platforms (`Free`).
+- [IBM Plex](https://www.ibm.com/plex) - Open type family with several scripts and styles, built for clear, consistent communication across products (`Open Source`).
+- [Recursive](https://www.recursive.design) - Variable font that moves between casual and monospaced styles, useful for code and interface text (`Open Source`).
+- [Uncut](https://uncut.wtf) - Font sampler for previewing typefaces with your own text before deciding on a typographic direction (`Free`).
 
 ## 🔖 Icons
 
@@ -284,6 +334,12 @@ Complete, consistent icon sets with packages for your stack.
 - [The Noun Project](https://thenounproject.com) - The classic marketplace of icons for every concept you can name.
 - [Icons8](https://icons8.com) - Icons, illustrations and photos in every style, with free tier and apps.
 - [SVG Repo](https://www.svgrepo.com) - 500,000+ open-licensed SVG icons and vectors, searchable.
+- [Font Awesome](https://fontawesome.com) - Large icon set with consistent styling, used to add recognizable symbols to interfaces and documents (`Freemium`).
+- [Bootstrap Icons](https://icons.getbootstrap.com) - Open icon library that matches Bootstrap's visual language and works in any web project (`Open Source`).
+- [Ionicons](https://ionic.io/ionicons) - Open-source icon set with several styles, made to cover common interface needs across platforms (`Open Source`).
+- [React Icons](https://react-icons.github.io/react-icons/) - Package that gathers popular icon sets as React components, simplifying import and use in apps (`Open Source`).
+- [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) - Microsoft icon collection with consistent weights and styles for product interfaces and documentation (`Open Source`).
+- [Hugeicons](https://hugeicons.com) - Icon library with multiple styles and sizes for teams that need a wide visual vocabulary in products (`Freemium`).
 
 ## 🖼️ Illustrations
 
@@ -301,6 +357,11 @@ Open-source and free illustrations you can recolor to your brand.
 - [CocoMaterial](https://cocomaterial.com) - An open-source library of hand-drawn illustrations and patterns.
 - [IRA Design](https://iradesign.io) - Build your own gradient-styled illustrations, by Creative Tim.
 - [Pixeltrue Illustrations](https://www.pixeltrue.com/packs) - Illustration and animation packs, free for personal and commercial use.
+- [Absurd Design](https://absurd.design) - Surreal illustration collection that helps add a distinctive visual tone to landing pages and editorial layouts (`Freemium`).
+- [Popsy](https://popsy.co) - Illustration library with editable scenes, useful for adding character to product pages without custom drawing (`Free`).
+- [DiceBear](https://www.dicebear.com) - Avatar generator that creates consistent profile illustrations from names or seeds for apps and prototypes (`Open Source`).
+- [Shapefest](https://www.shapefest.com) - Collection of abstract shapes and graphics to add texture and rhythm to compositions and presentations (`Free`).
+- [Avataaars](https://getavataaars.com) - Avatar generator with adjustable features for adding illustrated people to profiles, demos and prototypes (`Open Source`).
 
 ## 📸 Stock photos, video and 3D
 
@@ -322,6 +383,10 @@ Free photos, videos and 3D assets, mostly CC0, for real pages.
 - [Quaternius](https://quaternius.com) - Free stylized 3D asset packs, from low-poly cities to animated characters.
 - [Poly Haven](https://polyhaven.com) - CC0 HDRIs, textures and 3D models, community run.
 - [Sketchfab](https://sketchfab.com) - The place to publish and find 3D models, with thousands downloadable.
+- [Pexels](https://www.pexels.com) - Stock photo and video library with searchable subjects, used to illustrate pages and prototypes quickly (`Free`).
+- [Pixabay](https://pixabay.com) - Stock media library with photos, vectors and video, useful for finding visuals for mockups and content (`Free`).
+- [Nappy](https://www.nappy.co) - Photo library focused on authentic people and everyday scenes, useful for inclusive visual storytelling (`Free`).
+- [FoodiesFeed](https://www.foodiesfeed.com) - Food photo library organized by ingredient and dish, useful for menus, recipe pages and mockups (`Free`).
 
 ## 🎞️ Animation and motion
 
@@ -335,6 +400,19 @@ Libraries and tools to move the interface without drowning in JavaScript.
 - [anime.js](https://animejs.com) - A small but mighty animation library for CSS, SVG and JS objects.
 - [Theatre.js](https://www.theatrejs.com) - Animate anything in the browser with a real editor and keyframes.
 - [Auto-Animate](https://auto-animate.formkit.com) - One line of code to get smooth transitions when the DOM changes.
+- [Three.js](https://threejs.org) - JavaScript library for rendering 3D scenes in the browser, used for product views and interactive visuals (`Open Source`).
+- [React Three Fiber](https://r3f.docs.pmnd.rs) - React renderer for Three.js that lets teams build 3D scenes with components and reusable state (`Open Source`).
+- [Shadertoy](https://www.shadertoy.com) - Community gallery of GLSL shaders with live previews, useful for studying effects and procedural graphics (`Free`).
+- [The Book of Shaders](https://thebookofshaders.com) - Step-by-step guide to fragment shaders that explains GPU graphics concepts through practical examples (`Free`).
+- [Paper Shaders](https://shaders.paper.design) - Ready-to-use shader pack for React that adds gradients and animated backgrounds to web interfaces (`Open Source`).
+- [Shader Gradient](https://www.shadergradient.co) - Tool for generating gradient shader backgrounds and exporting them into design and code workflows (`Free`).
+- [Unicorn Studio](https://www.unicorn.studio) - Visual editor for interactive 3D and WebGL scenes, used to embed motion graphics without hand-coding shaders (`Freemium`).
+- [Lenis](https://lenis.darkroom.engineering) - Smooth scrolling library that normalizes scroll behavior across browsers and devices in web projects (`Open Source`).
+- [React Spring](https://www.react-spring.dev) - Spring-based animation library for React that handles transitions and motion with natural-looking physics (`Open Source`).
+- [PixiJS](https://pixijs.com) - Browser-based 2D rendering engine that supports sprites, filters and interactive graphics in web apps (`Open Source`).
+- [Babylon.js](https://www.babylonjs.com) - Web rendering engine for 3D scenes and games, with tools for lighting, physics and interaction (`Open Source`).
+- [Transition.css](https://www.transition.style) - Small library of CSS transitions that you can drop into a project for quick motion on common elements (`Open Source`).
+- [CSS Loaders](https://css-loaders.com) - Collection of CSS loading indicators to copy into interfaces while content or data is still arriving (`Free`).
 
 ## 🧪 CSS generators and backgrounds
 
@@ -366,6 +444,8 @@ Copy-paste generators for gradients, patterns, shadows, grids and dividers.
 - [css-doodle](https://css-doodle.com) - Draw generative art with a web component and plain CSS.
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app) - Draw a grid, get the CSS.
 - [Layoutit Grid](https://grid.layoutit.com) - Interactive CSS grid builder with templates and live preview.
+- [doodad.dev](https://doodad.dev) - Generator for CSS patterns and backgrounds that turns a few settings into reusable decorative styles (`Free`).
+- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Interactive tool for shaping unusual border radii and copying the resulting CSS into a project (`Free`).
 
 ## ✏️ Prototyping and design tools
 
@@ -384,6 +464,10 @@ From quick wireframes to full design tools, including the free ones.
 - [Spline](https://spline.design) - Design 3D scenes in the browser and ship them to the web.
 - [Photopea](https://www.photopea.com) - A full image editor in the browser, free, that opens PSDs.
 - [Canva](https://www.canva.com) - Quick graphic design for the 90% of assets that never reach Figma.
+- [ProtoPie](https://www.protopie.io) - Prototyping tool for realistic interactions and microtransitions, useful for testing flows before development (`Freemium`).
+- [Lunacy](https://icons8.com/lunacy) - Design editor that opens Sketch files and works offline, useful for UI work on desktop (`Freemium`).
+- [diagrams.net](https://www.diagrams.net) - Diagram editor for flowcharts and wireframes that runs in the browser or on desktop (`Open Source`).
+- [Miro](https://miro.com) - Collaborative whiteboard for workshops, mappings and wireframes, used by distributed product teams (`Freemium`).
 
 ## 🪄 AI design tools
 
@@ -397,6 +481,26 @@ Generate interfaces, wireframes and brand art, then fix them by hand.
 - [Krea](https://www.krea.ai) - Generate and enhance images and video in real time, with style training.
 - [Ideogram](https://ideogram.ai) - The image model that renders text inside images without gibberish.
 - [Kittl](https://www.kittl.com) - Design logos, merch and print with AI built into a real editor.
+- [Midjourney](https://www.midjourney.com) - Image generation tool for exploring visual concepts and moodboards from short text prompts (`Freemium`).
+- [Black Forest Labs (FLUX)](https://bfl.ai) - Image generation models used to create visual concepts and assets from text descriptions (`Freemium`).
+- [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Generative tools integrated with Adobe apps for creating and editing visual assets from prompts (`Freemium`).
+- [Leonardo.Ai](https://leonardo.ai) - Image generation workspace for concept art and visual assets, with controls over style and composition (`Freemium`).
+- [Motiff](https://www.motiff.com) - Interface design tool that supports duplication detection and design system maintenance for product teams (`Freemium`).
+- [Subframe](https://www.subframe.com) - Tool that turns design work into production-ready React and Tailwind code for product teams (`Freemium`).
+- [UX Pilot](https://www.uxpilot.ai) - AI assistant for wireframes and UI concepts that helps explore screens early in the design process (`Freemium`).
+- [Visily](https://www.visily.ai) - Wireframing tool with templates and AI assistance for sketching product screens without design training (`Freemium`).
+- [Locofy](https://www.locofy.ai) - Converter that turns Figma designs into React or HTML components to speed up front-end implementation (`Freemium`).
+
+## 📧 Email design and tooling
+
+Tools and references for designing, building and testing transactional and marketing emails.
+
+- [React Email](https://react.email) - Component library for writing responsive email templates in React, with previews and reusable blocks (`Open Source`).
+- [MJML](https://mjml.io) - Markup language that compiles responsive email templates into the table-based HTML mail clients expect (`Open Source`).
+- [Maizzle](https://maizzle.com) - Framework for building HTML emails with familiar tooling, reusable components and predictable output (`Open Source`).
+- [Can I Email](https://www.caniemail.com) - Compatibility reference that shows which CSS and HTML features work in each email client (`Free`).
+- [Litmus](https://www.litmus.com) - Email testing platform for previewing campaigns across clients and checking rendering before sending (`Freemium`).
+- [Campaign Monitor CSS](https://www.campaignmonitor.com/css/) - Guide to CSS support in email clients, useful when debugging why a template renders differently (`Free`).
 
 ## 📚 Learning, UX and accessibility
 
@@ -429,6 +533,12 @@ The reading that changes how your interfaces look and behave.
 - [Google Design](https://design.google/) - Google's design hub: stories, methods and tool news.
 - [Envato Tuts+ Web Design](https://webdesign.tutsplus.com) - Long-form web design and UX tutorials.
 - [Hack Design](https://www.hackdesign.org) - A design course by top designers, one lesson a week.
+- [WAVE](https://wave.webaim.org) - Accessibility checker that highlights issues on a page and explains why they affect assistive technology (`Free`).
+- [axe-core](https://www.deque.com/axe/) - Accessibility testing engine that finds violations in pages and components during automated checks (`Open Source`).
+- [pa11y](https://pa11y.org) - Command-line tool that runs accessibility checks on pages and fits into continuous integration (`Open Source`).
+- [WCAG Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) - Quick reference to WCAG criteria with techniques and failures, useful for audit work and team training (`Free`).
+- [Accessibility Insights](https://accessibilityinsights.io) - Set of tools that walks through accessibility checks for web and Windows apps step by step (`Open Source`).
+- [APCA Contrast Calculator](https://apcacontrast.com) - Contrast calculator based on APCA that helps check text legibility beyond simple ratio thresholds (`Free`).
 
 ## 🧰 Utilities
 
@@ -445,6 +555,15 @@ Small tools that each solve one annoying job.
 - [Responsively App](https://responsively.app) - See and test your responsive design on many devices at once.
 - [Tiny Helpers](https://tiny-helpers.dev) - A collection of small, single-purpose dev and design helpers.
 - [SVG Crop](https://svgcrop.com) - Trim the invisible margins of any SVG, in the browser.
+- [Squoosh](https://squoosh.app) - Browser tool for compressing and resizing images so pages load faster without visible quality loss (`Free`).
+- [TinyPNG](https://tinypng.com) - Image compression service that reduces PNG and JPEG file sizes for faster page delivery (`Freemium`).
+- [SVGOMG](https://jakearchibald.github.io/svgomg/) - Web interface for optimizing SVG files by removing unnecessary data while keeping the artwork intact (`Free`).
+- [PageSpeed Insights](https://pagespeed.web.dev) - Tool that measures page performance and suggests fixes based on real and lab data (`Free`).
+- [WebPageTest](https://www.webpagetest.org) - Tool for detailed load testing of pages across locations and browsers, useful for diagnosing slow pages (`Free`).
+- [Bundlephobia](https://bundlephobia.com) - Tool that shows the size and dependencies of an npm package before you add it to a project (`Free`).
+- [Transfonter](https://transfonter.org) - Tool for converting and subsetting fonts into web-friendly formats to reduce payload on pages (`Free`).
+- [Polypane](https://polypane.app) - Browser built for responsive work that shows multiple viewports and accessibility checks side by side (`Freemium`).
+- [GTmetrix](https://gtmetrix.com) - Page performance tool that reports loading metrics and records filmstrips for debugging slow screens (`Freemium`).
 
 ## Sponsors
 

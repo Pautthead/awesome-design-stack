@@ -23,12 +23,13 @@ Additionally:
 One line per entry, in the correct category section, in both READMEs:
 
 ```md
-- [Name](https://example.com) - One-line description that says what it is and why it matters.
+- [Name](https://example.com) - One-line description that says what it is and why it matters (`Open Source`).
 ```
 
 Rules:
 
 - Description: one line, starts with a capital letter, ends with a period, in English for `README.md` and Spanish for `README.es.md`.
+- Optional tag at the end of the description, in backticks: `Open Source`, `Free` or `Freemium`. Use only one, and only when it helps.
 - No marketing superlatives ("the best ever"). Say what the tool does.
 - Star counts (`128k★`) are only used for large repos, written as `NNNk&#9733;`, and must be roughly current at the time of the PR.
 - Keep both files in sync: an entry added to one must be added to the other in the same PR.
@@ -52,7 +53,11 @@ If a new entry does not fit any existing category, propose a new one in an issue
    curl -s -o /dev/null -w "%{http_code}" -L -A "Mozilla/5.0" "https://your-url.example"
    ```
 
-   It must return `200`.
+   It must return `200`. If you have [lychee](https://github.com/lycheeverse/lychee) installed, also run it on both READMEs (this is what CI runs):
+
+   ```sh
+   lychee --no-progress README.md README.es.md llms.txt
+   ```
 
 5. Open the PR using the template.
 

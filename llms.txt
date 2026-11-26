@@ -1,0 +1,27 @@
+# Awesome Design Stack
+
+> A curated list of web design resources and landing page inspiration for product teams, in English and Spanish, maintained by fluyeporlaweb (Fluye Labs). Links are verified weekly.
+
+Repository: https://github.com/fluyeporlaweb/awesome-design-stack
+License: CC0 (https://github.com/fluyeporlaweb/awesome-design-stack/blob/main/LICENSE)
+Sponsor: https://fluyeporlaweb.com/patrocina
+Email: colab@fluyeporlaweb.com
+
+## What this is
+
+An awesome list, not a dump of links. One line per resource, with verified links that are re-checked weekly so each reference stays alive. Topics cover landing pages and pricing pages, onboarding patterns, design systems, React and Tailwind components, typography, icons, motion, shaders, email design, accessibility and AI design tools. Curated, not dumped.
+
+## Docs
+
+- README (English): https://github.com/fluyeporlaweb/awesome-design-stack/blob/main/README.md
+- README (Spanish): https://github.com/fluyeporlaweb/awesome-design-stack/blob/main/README.es.md
+- Contributing: https://github.com/fluyeporlaweb/awesome-design-stack/blob/main/CONTRIBUTING.md
+
+## Links
+
+- Website: https://fluyeporlaweb.com
+- X: https://x.com/fluyeporlaweb
+- Telegram: https://t.me/fluyeporlaweb
+- Email: colab@fluyeporlaweb.com
+
+fluyeporlaweb / Fluye Labs
