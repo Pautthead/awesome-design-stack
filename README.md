@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/fluyeporlaweb/awesome-design-stack/stargazers"><img src="https://img.shields.io/github/stars/fluyeporlaweb/awesome-design-stack.svg" alt="Stars"></a>
+  <a href="https://github.com/fluyeporlaweb/awesome-design-stack/commits/main"><img src="https://img.shields.io/github/last-commit/fluyeporlaweb/awesome-design-stack.svg" alt="Last commit"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0"></a>
   <a href=".github/workflows/link-check.yml"><img src="https://img.shields.io/badge/links-checked%20weekly-blue.svg" alt="Links checked weekly"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
@@ -17,7 +18,7 @@
 
 > A curated collection of **web design resources** for people who ship: **landing page and pricing inspiration**, onboarding and empty states, **design systems**, **React and Tailwind components**, typography, icons, motion and shaders, **email design**, accessibility and **AI design tools**. Every link is verified, and the whole list is re-checked weekly, in English and Spanish.
 
-The big design lists went stale years ago, while the work moved on: you pick a design system, drop a `DESIGN.md` into your repo so your coding agent designs like a senior, and grab components instead of reinventing them. One list for the whole stack, maintained by [fluyeporlaweb](https://fluyeporlaweb.com) (Fluye Labs).
+The big design lists went stale years ago, while the work moved on: you pick a design system, drop a `DESIGN.md` into your repo so your coding agent designs like a senior, and grab components instead of reinventing them. One list for the whole stack, maintained by [fluyeporlaweb](https://fluyeporlaweb.com?src=github) (Fluye Labs).
 
 ## Contents
 
@@ -40,6 +41,9 @@ The big design lists went stale years ago, while the work moved on: you pick a d
 - [📧 Email design and tooling](#email-design-and-tooling) (6)
 - [📚 Learning, UX and accessibility](#learning-ux-and-accessibility) (33)
 - [🧰 Utilities](#utilities) (20)
+- [Seen in our videos](#seen-in-our-videos)
+- [Sponsors](#sponsors)
+- [More from fluyeporlaweb](#more-from-fluyeporlaweb)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -565,11 +569,21 @@ Small tools that each solve one annoying job.
 - [Polypane](https://polypane.app) - Browser built for responsive work that shows multiple viewports and accessibility checks side by side (`Freemium`).
 - [GTmetrix](https://gtmetrix.com) - Page performance tool that reports loading metrics and records filmstrips for debugging slow screens (`Freemium`).
 
+## Seen in our videos
+
+We review unusual websites, GitHub repos and web apps in short videos. The write-ups and links live on [fluyeporlaweb.com](https://fluyeporlaweb.com?src=github). Follow along on [X](https://x.com/fluyeporlaweb) and [Telegram](https://t.me/fluyeporlaweb).
+
 ## Sponsors
 
-This list is free and open source. Brands that want to appear here or collaborate with us can write to [colab@fluyeporlaweb.com](mailto:colab@fluyeporlaweb.com) or visit [fluyeporlaweb.com/patrocina](https://fluyeporlaweb.com/patrocina).
+This list is free and open source. Brands that want to appear here or collaborate with us can write to [colab@fluyeporlaweb.com](mailto:colab@fluyeporlaweb.com) or visit [fluyeporlaweb.com/patrocina](https://fluyeporlaweb.com/patrocina?src=github).
 
-**[Your brand here](https://fluyeporlaweb.com/patrocina)**
+**[Your brand here](https://fluyeporlaweb.com/patrocina?src=github)**
+
+## More from fluyeporlaweb
+
+- [ai-agent-tools](https://github.com/fluyeporlaweb/ai-agent-tools) — curated directory of open-source tools for AI agents.
+- [prospectforge](https://github.com/fluyeporlaweb/prospectforge) — open-source B2B lead pipeline. Dry-run by default. Never sends email.
+- Website: [fluyeporlaweb.com](https://fluyeporlaweb.com?src=github)
 
 ## Contributing
 
@@ -584,7 +598,7 @@ To the extent possible under law, the contributors have waived all copyright and
 ---
 
 <p align="center">
-  Maintained by <a href="https://fluyeporlaweb.com">fluyeporlaweb</a> &#183;
+  Maintained by <a href="https://fluyeporlaweb.com?src=github">fluyeporlaweb</a> &#183;
   <a href="https://x.com/fluyeporlaweb">@fluyeporlaweb</a> &#183;
   <a href="mailto:colab@fluyeporlaweb.com">colab@</a> &#183;
   <a href="README.es.md">Versión en español</a>

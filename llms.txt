@@ -4,12 +4,21 @@
 
 Repository: https://github.com/fluyeporlaweb/awesome-design-stack
 License: CC0 (https://github.com/fluyeporlaweb/awesome-design-stack/blob/main/LICENSE)
-Sponsor: https://fluyeporlaweb.com/patrocina
+Sponsor: https://fluyeporlaweb.com/patrocina?src=github
 Email: colab@fluyeporlaweb.com
 
 ## What this is
 
 An awesome list, not a dump of links. One line per resource, with verified links that are re-checked weekly so each reference stays alive. Topics cover landing pages and pricing pages, onboarding patterns, design systems, React and Tailwind components, typography, icons, motion, shaders, email design, accessibility and AI design tools. Curated, not dumped.
+
+## Videos
+
+Short reviews of unusual websites, GitHub repos and web apps: https://fluyeporlaweb.com?src=github
+
+## Also from fluyeporlaweb
+
+- ai-agent-tools: https://github.com/fluyeporlaweb/ai-agent-tools
+- prospectforge: https://github.com/fluyeporlaweb/prospectforge
 
 ## Docs
 
@@ -19,7 +28,7 @@ An awesome list, not a dump of links. One line per resource, with verified links
 
 ## Links
 
-- Website: https://fluyeporlaweb.com
+- Website: https://fluyeporlaweb.com?src=github
 - X: https://x.com/fluyeporlaweb
 - Telegram: https://t.me/fluyeporlaweb
 - Email: colab@fluyeporlaweb.com
