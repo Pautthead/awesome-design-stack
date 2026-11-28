@@ -17,7 +17,7 @@
 
 > Una colección curada de **recursos de diseño web** para quienes construyen: **inspiración de landings y páginas de precios**, onboarding y empty states, **sistemas de diseño**, **componentes React y Tailwind**, tipografía, iconos, motion y shaders, **diseño de email**, accesibilidad y **herramientas de diseño con IA**. Cada enlace está verificado y la lista se vuelve a comprobar cada semana, en inglés y en español.
 
-Las grandes listas de diseño llevan años sin mantenerse, mientras el trabajo cambió de sitio: eliges un sistema de diseño, sueltas un `DESIGN.md` en tu repo para que tu agente de código diseñe como un senior, y coges componentes en vez de reinventarlos. Una sola lista para todo el stack, mantenida por [fluyeporlaweb](https://fluyeporlaweb.com) (Fluye Labs).
+Las grandes listas de diseño llevan años sin mantenerse, mientras el trabajo cambió de sitio: eliges un sistema de diseño, sueltas un `DESIGN.md` en tu repo para que tu agente de código diseñe como un senior, y coges componentes en vez de reinventarlos. Una sola lista para todo el stack, mantenida por [fluyeporlaweb](https://fluyeporlaweb.com?src=github) (Fluye Labs).
 
 ## Contenido
 
@@ -40,6 +40,9 @@ Las grandes listas de diseño llevan años sin mantenerse, mientras el trabajo c
 - [📧 Diseño de email y herramientas](#diseño-de-email-y-herramientas) (6)
 - [📚 Aprendizaje, UX y accesibilidad](#aprendizaje-ux-y-accesibilidad) (33)
 - [🧰 Utilidades](#utilidades) (20)
+- [Visto en nuestros vídeos](#visto-en-nuestros-vídeos)
+- [Patrocinadores](#patrocinadores)
+- [Más de fluyeporlaweb](#más-de-fluyeporlaweb)
 - [Contribuir](#contribuir)
 - [Licencia](#licencia)
 
@@ -565,11 +568,21 @@ Herramientas pequeñas que resuelven cada una un fastidio concreto.
 - [Polypane](https://polypane.app) - Navegador pensado para diseño adaptable que muestra varios tamaños de pantalla y comprobaciones de accesibilidad a la vez (`Freemium`).
 - [GTmetrix](https://gtmetrix.com) - Herramienta de rendimiento web que informa de métricas de carga y graba secuencias para depurar pantallas lentas (`Freemium`).
 
+## Visto en nuestros vídeos
+
+Hacemos reviews en vídeo de webs poco conocidas, repos de GitHub y web apps. Los artículos y los enlaces están en [fluyeporlaweb.com](https://fluyeporlaweb.com?src=github). Síguenos en [X](https://x.com/fluyeporlaweb) y en [Telegram](https://t.me/fluyeporlaweb).
+
 ## Patrocinadores
 
-Esta lista es gratuita y de código abierto. Las marcas que quieran aparecer aquí o colaborar pueden escribir a [colab@fluyeporlaweb.com](mailto:colab@fluyeporlaweb.com) o visitar [fluyeporlaweb.com/patrocina](https://fluyeporlaweb.com/patrocina).
+Esta lista es gratuita y de código abierto. Las marcas que quieran aparecer aquí o colaborar pueden escribir a [colab@fluyeporlaweb.com](mailto:colab@fluyeporlaweb.com) o visitar [fluyeporlaweb.com/patrocina](https://fluyeporlaweb.com/patrocina?src=github).
 
-**[Tu marca aquí](https://fluyeporlaweb.com/patrocina)**
+**[Tu marca aquí](https://fluyeporlaweb.com/patrocina?src=github)**
+
+## Más de fluyeporlaweb
+
+- [ai-agent-tools](https://github.com/fluyeporlaweb/ai-agent-tools) — directorio curado de herramientas open source para agentes de IA.
+- [prospectforge](https://github.com/fluyeporlaweb/prospectforge) — pipeline open source de prospección B2B. Dry-run por defecto. Nunca envía correo.
+- Web: [fluyeporlaweb.com](https://fluyeporlaweb.com?src=github)
 
 ## Contribuir
 
@@ -584,7 +597,7 @@ En la medida en que lo permita la ley, los contribuidores han renunciado a todos
 ---
 
 <p align="center">
-  Mantenido por <a href="https://fluyeporlaweb.com">fluyeporlaweb</a> &#183;
+  Mantenido por <a href="https://fluyeporlaweb.com?src=github">fluyeporlaweb</a> &#183;
   <a href="https://x.com/fluyeporlaweb">@fluyeporlaweb</a> &#183;
   <a href="mailto:colab@fluyeporlaweb.com">colab@</a> &#183;
   <a href="README.md">English version</a>
